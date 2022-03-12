@@ -4,4 +4,6 @@ login page code
 Product selection code
 Payment Page code 
 Payment process code
+Delivery details code
+ 
  
